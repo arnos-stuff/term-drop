@@ -1,0 +1,3 @@
+[submodule "tdrop"]
+	path = tdrop
+	url = https://github.com/noctuid/tdrop
